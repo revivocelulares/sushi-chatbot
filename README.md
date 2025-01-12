@@ -23,7 +23,7 @@ Un chatbot interactivo para realizar pedidos de sushi y responder preguntas frec
    ```bash
    npm install
    ```
-3. Crear el archivo `.env` en la raíz del proyecto y configurar las variables de entorno:
+3. Copiar el archivo `.env.example` al archivo `.env` en la raíz del proyecto y configurar las variables de entorno:
    ```bash
       PORT=3000
       MONGODB_URI= String de conección a MongoDB
