@@ -26,7 +26,7 @@ Un chatbot interactivo para realizar pedidos de sushi y responder preguntas frec
 3. Crear el archivo `.env` en la raíz del proyecto y configurar las variables de entorno:
    ```bash
       PORT=3000
-      MONGODB_URI= Sring de conección a MongoDB
+      MONGODB_URI= String de conección a MongoDB
       VITE_API_URL=http://localhost:3000/api
    ```
 4. Iniciar MongoDB localmente o configurar una conexión remota
